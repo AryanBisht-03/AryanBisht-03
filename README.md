@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Aryan Bisht</h1>
+<h3 align="center">A passionate computer programmer from India</h3>
 
-<!--
-**AryanBisht-03/AryanBisht-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="left">👩🏻‍💻 About Me :</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  🙋‍♀️ Im a 3rd year undergrad pursuing BTech with CSE.
+
+- 💻  I’m currently exploring and developing apps with **Android Studio.**
+
+- 🤝 Always open to having fun collaborating on building **real world apps.**
+
+- 🎯 I’m looking for a **relevant Android Internship where I can enhance my development skills and take it to a more professional level**
+
+- 👩🏻 Pronouns **He / His**
+
+- 📧 Reach me via **AryanBisht9458@gmail.com**
+
+- 🌈 Fun fact **I don't know if I am ever gonna stop playing football⚽⚽**
+
+
+<h3 align="left">🛠 Languages and Tools I use:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.python.org/" target="_blank"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://developer.android.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
