@@ -4,7 +4,7 @@
 
 <h3 align="left">👩🏻‍💻 About Me :</h3>
 
--  🙋‍♀️ Im a 3rd year undergrad pursuing BTech with CSE.
+-  🙋 ♀️ Im a 3rd year undergrad pursuing BTech with CSE.
 
 - 💻  I’m currently exploring and developing apps with **Android Studio.**
 
@@ -12,7 +12,7 @@
 
 - 🎯 I’m looking for a **relevant Android Internship where I can enhance my development skills and take it to a more professional level**
 
-- 👩🏻 Pronouns **He / His**
+- 👩🏻 Pronouns **He / Him**
 
 - 📧 Reach me via **AryanBisht9458@gmail.com**
 
