@@ -18,6 +18,8 @@
 - 🙋 ♀️ Pronouns **He / Him**
 
 - 🌈 Little bit about me apart from coding 😅 **Loves football⚽**
+  
+- ✍️ Publishing blogs on Medium, sharing expertise and fostering community knowledge exchange.
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="15" width="100%">
 <h3 align="left">Connect with me:</h3>
@@ -26,6 +28,7 @@
 <a href="https://stackoverflow.com/users/15791092/aryan-bisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
 <a href="https://www.instagram.com/its_aryan_bisht/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
 <a href="https://twitter.com/aryan37301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="supun nanayakkara" height="30" width="40" /></a>
+<a href="https://medium.com/@AryanBeast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="supun___lk" height="30" width="40" /></a>
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
