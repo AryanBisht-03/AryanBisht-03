@@ -14,8 +14,9 @@
 
 - 👩🏻 Pronouns **He / Him**
 
-- 📧 Reach me via **AryanBisht9458@gmail.com** .
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spaa-club-50b302216/)
+- 📧 Reach me via **AryanBisht9458@gmail.com** 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spaa-club-50b302216/),
+  [Twitter](https://twitter.com/aryan37301)
 
 - 🌈 Fun fact **I don't know if I am ever gonna stop playing football⚽⚽**
 
